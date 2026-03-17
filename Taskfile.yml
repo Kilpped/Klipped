@@ -1,0 +1,12 @@
+version: '3'
+
+vars:
+  APP_NAME: "Klipped"
+  APP_IDENTIFIER: "klipped"
+  APP_VERSION: "ALPHA"
+
+tasks:
+  default:
+    cmds:
+      - echo "{{.GREETING}}"
+    silent: true
