@@ -1,3 +1,6 @@
 [submodule "apps/klipped-relay"]
 	path = apps/klipped-relay
 	url = https://github.com/Kilpped/klipped-relay
+[submodule "apps/klipped-macos"]
+	path = apps/klipped-macos
+	url = https://github.com/Kilpped/klipped-macos
