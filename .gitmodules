@@ -1,0 +1,3 @@
+[submodule "apps/klipped-relay"]
+	path = apps/klipped-relay
+	url = https://github.com/Kilpped/klipped-relay
